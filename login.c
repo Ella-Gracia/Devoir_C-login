@@ -1,8 +1,3 @@
-int main()
-{
-    choice();
-    return 0;
-}
 void choice()
 {
     int choice=0;
